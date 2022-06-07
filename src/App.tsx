@@ -1,7 +1,5 @@
 import React from 'react'
-import logo from './logo.svg'
 import './App.css'
-import { GradientText } from './components/GradientText'
 import MovieCard from './components/MovieCard'
 
 function App() {
